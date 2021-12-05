@@ -1,0 +1,7 @@
+The Height of the tree is:-1
+5 was added to the tree
+8 was added to the tree
+2 was added to the tree
+The max is:8 
+There are no 6 elements in this tree
+There are 2 small elements in this tree:2 5 
